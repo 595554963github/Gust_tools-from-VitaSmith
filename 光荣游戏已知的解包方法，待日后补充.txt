@@ -58,7 +58,7 @@ pak文件，幻舞少女之剑系列的封装格式，每个pak文件都有单�
 
 
 2024年10月21日新增以下工具
-pk、pfs、pkh三种组合打包的文件，资源被封装到pk里面，pfs记录了pk文件里面的存储信息，使用LSPK-Extractor解包，方法为LSPK-Extractor input.pk，一个个的解比较麻烦，所以我必须制作个脚本批量解pk文件，建议大家不要下载GE3-Extractor，github上的这个工具报木马病毒，于是我菜下载LSPK-Extractor，这个工具没提示报毒，而且可以解开pk文件，那就不用GE3-Extractor了，需要注意的是使用该解包工具解pk文件会自动输出到脚本所在的目录，请把pk文件批量解包.py放到游戏文件夹里再使用。
+pk、pfs、pkh三种组合打包的文件，资源被封装到pk里面，pfs记录了pk文件里面的存储信息，使用LSPK-Extractor解包，方法为LSPK-Extractor input.pk，一个个的解比较麻烦，所以我必须制作个脚本批量解pk文件，建议大家不要下载GE3-Extractor，github上的这个工具报木马病毒，于是我才下载LSPK-Extractor，这个工具没提示报毒，而且可以解开pk文件，那就不用GE3-Extractor了，需要注意的是使用该解包工具解pk文件会自动输出到脚本所在的目录，请把pk文件批量解包.py放到游戏文件夹里再使用。
 
 Fate Extella的noesis插件叫data_fate_extella.py，亲测有效，可放心使用。
 
